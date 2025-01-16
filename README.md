@@ -47,8 +47,6 @@ Do hit me up for any exciting opportunities or contributions that I can make, I 
   <img width= "8" />
   <img src="https://cdn.svgporn.com/logos/swift.svg" height="48" alt="swift" />
   <img width= "8" />
-  <img src="https://cdn.svgporn.com/logos/kotlin-icon.svg" height="48" alt="kotlin" />
-  <img width= "8" />
   <img src="https://cdn.svgporn.com/logos/ruby.svg" height="48" alt="ruby" />
 </div>
 
