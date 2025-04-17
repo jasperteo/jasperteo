@@ -39,7 +39,7 @@ Do hit me up for any exciting opportunities or contributions that I can make, I 
   <img width= "8" />
   <img src="https://cdn.svgporn.com/logos/javascript.svg" height="48" alt="javascript" />
   <img width= "8" />
-  <img src="https://cdn.svgporn.com/logos/python.svg" height="48" alt="python" />
+<!--   <img src="https://cdn.svgporn.com/logos/python.svg" height="48" alt="python" />
   <img width= "8" />
   <img src="https://cdn.svgporn.com/logos/c.svg" height="48" alt="c" />
   <img width= "8" />
@@ -47,7 +47,7 @@ Do hit me up for any exciting opportunities or contributions that I can make, I 
   <img width= "8" />
   <img src="https://cdn.svgporn.com/logos/swift.svg" height="48" alt="swift" />
   <img width= "8" />
-  <img src="https://cdn.svgporn.com/logos/ruby.svg" height="48" alt="ruby" />
+  <img src="https://cdn.svgporn.com/logos/ruby.svg" height="48" alt="ruby" /> -->
 </div>
 
 ### Databases
