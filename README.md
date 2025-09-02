@@ -50,9 +50,9 @@ Do hit me up for any exciting opportunities or contributions that I can make, I 
   <img src="https://cdn.svgporn.com/logos/ruby.svg" height="48" alt="ruby" /> -->
 </div>
 
-### Databases
+<!--  ### Databases  -->
 
-<div>
+<!--   <div>
   <img src="https://cdn.svgporn.com/logos/postgresql.svg" height="48" alt="postgres" />
   <img width= "8" />
   <img src="https://cdn.svgporn.com/logos/sqlite.svg" height="48" alt="sqlite" />
@@ -62,4 +62,4 @@ Do hit me up for any exciting opportunities or contributions that I can make, I 
   <img src="https://cdn.svgporn.com/logos/redis.svg" height="48" alt="redis" />
   <img width= "8" />
   <img src="https://cdn.svgporn.com/logos/firebase.svg" height="48" alt="firebase" />
-</div>
+</div>  -->
