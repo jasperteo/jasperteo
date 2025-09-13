@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 # 🧑‍💻 Hi there
 
-I am a full-stack engineer who loves to engage myself in learning and and building in the ever evolving world of web development.
+I create high-performance web experiences that combine speed, scalability, and visual clarity to improve how people interact with digital products and make them enjoyable to use. 
+
+By fine-tuning details and exploring ideas, I deliver features and improvements that lead to smoother interactions and better user engagement.
 
 Do hit me up for any exciting opportunities or contributions that I can make, I would love to connect with more people!
 
