@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # 🧑‍💻 Hi there
 
-I create high-performance web experiences that combine speed, scalability, and visual clarity to improve how people interact with digital products and make them enjoyable to use. 
+<!--  I create high-performance web experiences that combine speed, scalability, and visual clarity to improve how people interact with digital products and make them enjoyable to use. 
 
 By fine-tuning details and exploring ideas, I deliver features and improvements that lead to smoother interactions and better user engagement.
 
@@ -41,7 +41,7 @@ Do hit me up for any exciting opportunities or contributions that I can make, I 
   <img width= "8" />
   <img src="https://cdn.svgporn.com/logos/javascript.svg" height="48" alt="javascript" />
   <img width= "8" />
-<!--   <img src="https://cdn.svgporn.com/logos/python.svg" height="48" alt="python" />
+  <img src="https://cdn.svgporn.com/logos/python.svg" height="48" alt="python" />
   <img width= "8" />
   <img src="https://cdn.svgporn.com/logos/c.svg" height="48" alt="c" />
   <img width= "8" />
@@ -49,8 +49,8 @@ Do hit me up for any exciting opportunities or contributions that I can make, I 
   <img width= "8" />
   <img src="https://cdn.svgporn.com/logos/swift.svg" height="48" alt="swift" />
   <img width= "8" />
-  <img src="https://cdn.svgporn.com/logos/ruby.svg" height="48" alt="ruby" /> -->
-</div>
+  <img src="https://cdn.svgporn.com/logos/ruby.svg" height="48" alt="ruby" />
+</div> -->
 
 <!--  ### Databases  -->
 
